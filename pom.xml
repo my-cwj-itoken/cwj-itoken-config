@@ -16,6 +16,7 @@
     <name>cwj-itoken-config</name>
     <url>http://www.cwj.com</url>
     <inceptionYear>2019-Now</inceptionYear>
+    <version>1.0.0-SNAPSHOT</version>
 
     <dependencies>
         <!-- Spring Boot Begin -->
