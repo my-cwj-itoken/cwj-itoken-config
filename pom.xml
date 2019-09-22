@@ -80,9 +80,9 @@
 
     <repositories>
         <repository>
-            <id>nexus-snapshots</id>
+            <id>nexus</id>
             <name>Nexus Repository</name>
-            <url>http://192.168.1.113/repository/maven-snapshots/</url>
+            <url>http://192.168.1.113/repository/maven-public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
