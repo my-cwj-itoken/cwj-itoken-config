@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.cwj.itoken</groupId>
+        <groupId>com.cwj</groupId>
         <artifactId>cwj-itoken-dependencies</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <relativePath>../cwj-itoken-dependencies/pom.xml</relativePath>
